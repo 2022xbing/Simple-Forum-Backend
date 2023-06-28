@@ -4,6 +4,9 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 srp.log
+.mvn
+mvnw
+mvnw.cmd
 
 ### STS ###
 .apt_generated
@@ -19,6 +22,8 @@ srp.log
 *.iws
 *.iml
 *.ipr
+*.yml
+*.sql
 
 ### NetBeans ###
 /nbproject/private/
